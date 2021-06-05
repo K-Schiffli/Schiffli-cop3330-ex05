@@ -42,7 +42,7 @@ public class App {
             case 3:
                 return number1 * number2;
             case 4:
-                return number1 /= number2;
+                return number1 / number2;
             default:
                 System.out.println("Switch statement error.");
                 return -1;
